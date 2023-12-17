@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-blueprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Avoid nested containers using the power of grid",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
