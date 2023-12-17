@@ -7,11 +7,20 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abdellah711/tailwindcss-blueprint.git"
+  },
   "scripts": {
     "build": "tsc -p tsconfig.json",
     "dev": "tsc -p tsconfig.json --watch"
   },
-  "keywords": [],
+  "keywords": [
+    "tailwindcss",
+    "tailwind",
+    "grid",
+    "container"
+  ],
   "author": "abdellah711",
   "license": "MIT",
   "peerDependencies": {
